@@ -1,4 +1,5 @@
-# lemaki-cv
+# Forked from lemaki-cv
+## lemaki-cv | https://github.com/julien-deoux/lemaki-cv
 
 The content in this CV is subject to change quite often and might even get out of date at some point.
 To convert this HTML to a PDF file, I recommend you use a Chromium-based browser (Chrome, Opera...)
