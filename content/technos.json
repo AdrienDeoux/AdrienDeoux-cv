@@ -1,6 +1,8 @@
 [
+  { "name": "Android", "icon": "images/logos/android.svg"},
   { "name": "Javascript", "icon": "images/logos/js.svg"},
   { "name": "Python", "icon": "images/logos/python.svg"},
+  { "name": "Matlab", "icon": "images/logos/matlab.svg"},
   { "name": "HTML", "icon": "images/logos/html.svg"},
   { "name": "CSS", "icon": "images/logos/css.svg"},
   { "name": "Vue", "icon": "images/logos/vue.svg"},
